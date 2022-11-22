@@ -13,3 +13,12 @@ p {
   display: block;
   margin: 30px auto;
 }
+
+.navigation-links {
+  display: flex;
+  justify-content: center;
+}
+
+.navigation-links a {
+  padding: 15px 20px;
+}
