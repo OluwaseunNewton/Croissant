@@ -1,0 +1,15 @@
+body {
+  background-color: #f4f1fe;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.croissant-photo {
+  width: 400px;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
